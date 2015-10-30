@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DropDown</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Heading"><b><i>MobiJenkins</i></b></string>
+    <string name="Details"><b><i>Details</i></b></string>
+    
+</resources>

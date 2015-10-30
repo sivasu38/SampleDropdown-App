@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/c.sivasubramanian/Documents/NewAndroidWorkspace/DropDown/build/intermediates/exploded-aar/NewAndroidWorkspace/appcompat_v7/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/c.sivasubramanian/Documents/NewAndroidWorkspace/DropDown/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/c.sivasubramanian/Documents/NewAndroidWorkspace/DropDown/build-types/debug/assets" />
+    </dataSet>
+
+</merger>
